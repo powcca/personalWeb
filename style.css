@@ -1,0 +1,207 @@
+body{
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+#about{
+  background: #2980B9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin: 50px auto;
+  padding: 50px;
+}
+
+#work {
+
+}
+
+
+.nav-item {
+  font-size: 1.5em;
+  padding-left: 30px;
+
+}
+
+.selfie{
+  width: 15%;
+  height: 15%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 150px;
+}
+.name{
+  margin-top: 20%;
+  font-size: 5.5em;
+  font-family: Sacramento;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.me {
+  text-align: left;
+  padding-left: 50px;
+}
+
+h1, h3{
+  color: #023e8a;
+  font-family: "Montserrat-Bold";
+}
+
+
+.mr {
+  width: 50%;
+  height: 50%;
+}
+
+.bottom {
+  background-color: #a8dadc;
+  padding: 20px;
+}
+
+.contactmessage {
+  color: #0096c7;
+  padding: 0 30px 20px;
+}
+
+.btn {
+  background: #29cfc7;
+  background-image: -webkit-linear-gradient(top, #29cfc7, #2b9cb8);
+  background-image: -moz-linear-gradient(top, #29cfc7, #2b9cb8);
+  background-image: -ms-linear-gradient(top, #29cfc7, #2b9cb8);
+  background-image: -o-linear-gradient(top, #29cfc7, #2b9cb8);
+  background-image: linear-gradient(to bottom, #29cfc7, #2b9cb8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #374954;
+  background-image: -webkit-linear-gradient(top, #374954, #3498db);
+  background-image: -moz-linear-gradient(top, #374954, #3498db);
+  background-image: -ms-linear-gradient(top, #374954, #3498db);
+  background-image: -o-linear-gradient(top, #374954, #3498db);
+  background-image: linear-gradient(to bottom, #374954, #3498db);
+  text-decoration: none;
+}
+
+.copyright{
+  font-size: 0.75em;
+  padding: 20px 0 0 0;
+}
+
+.icon {
+  width: 1%;
+  height: 1%;
+}
+
+.pjatag {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a{
+  margin: 10px;
+}
+
+a:hover {
+  color: #EAF6F6 !important;
+  text-decoration: none;
+}
+
+.nav-link {
+  color: #29cfc7 !important;
+}
+
+.intro, .bar {
+  font-family: 'Redressed', cursive;
+  font-size: 20px;
+  color: #14213d;
+}
+
+p {
+  margin: 0;
+}
+
+li {
+
+}
+
+.pjul {
+ list-style-type: none;
+}
+
+.pjli {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+.pjp {
+  width: 100%;
+  height: 100%;
+}
+
+.bar {
+  background-color: #90e0ef;
+  box-shadow: 10px 4px 5px #90e0ef;
+}
+
+.main {
+  box-shadow: 10px 4px 5px #90e0ef;
+  position: relative;
+}
+
+.pjhov {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  visibility: hidden;
+  opacity: 0;
+  font-style: bold;
+  font-size: 25px;
+  color: #0077b6;
+}
+
+.main:hover .pjhov{
+  visibility: visible;
+  opacity: 1;
+}
+
+.carcustom{
+  margin: 80px auto;
+  width: 50%;
+  height: 50%;
+
+}
+
+.fiximage{
+  width: 500px;
+  height: 600px;
+}
+
+.secpadd{
+  text-align: left;
+  margin: 80px auto;
+}
+
+.capj {
+  margin: 50px auto 30px auto;
+}
+
+.subpagestyle{
+  font-size: 20px;
+  color: #14213d;
+}
+
+.body_color {
+
+}
